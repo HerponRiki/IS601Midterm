@@ -1,0 +1,210 @@
+2024-10-25 23:44:41,621 - root - INFO - Logging configured.
+2024-10-25 23:44:41,623 - root - INFO - Environment variables loaded.
+2024-10-25 23:44:41,645 - root - INFO - Logging configured.
+2024-10-25 23:44:41,646 - root - INFO - Environment variables loaded.
+2024-10-25 23:44:41,646 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:44:41,647 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:44:41,647 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:44:41,648 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:44:41,648 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:44:41,648 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:44:41,648 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:44:41,648 - root - INFO - Application exit.
+2024-10-25 23:44:41,648 - root - INFO - Application shutdown.
+2024-10-25 23:44:41,651 - root - INFO - Logging configured.
+2024-10-25 23:44:41,652 - root - INFO - Environment variables loaded.
+2024-10-25 23:44:41,652 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:44:41,653 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:44:41,653 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:44:41,653 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:44:41,653 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:44:41,653 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:44:41,653 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:44:41,653 - root - INFO - Application exit.
+2024-10-25 23:44:41,653 - root - INFO - Application shutdown.
+2024-10-25 23:44:41,675 - root - INFO - Logging configured.
+2024-10-25 23:44:41,676 - root - INFO - Environment variables loaded.
+2024-10-25 23:44:41,676 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:44:41,676 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:44:41,676 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:44:41,676 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:44:41,676 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:44:41,677 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:44:41,677 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:44:41,677 - root - INFO - Application exit.
+2024-10-25 23:44:41,677 - root - INFO - Application shutdown.
+2024-10-25 23:47:12,841 - root - INFO - Logging configured.
+2024-10-25 23:47:12,842 - root - INFO - Environment variables loaded.
+2024-10-25 23:47:12,863 - root - INFO - Logging configured.
+2024-10-25 23:47:12,863 - root - INFO - Environment variables loaded.
+2024-10-25 23:47:12,864 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:47:12,864 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:47:12,864 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:47:12,865 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:47:12,865 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:47:12,865 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:47:12,865 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:47:12,865 - root - INFO - Application exit.
+2024-10-25 23:47:12,866 - root - INFO - Application shutdown.
+2024-10-25 23:47:12,869 - root - INFO - Logging configured.
+2024-10-25 23:47:12,869 - root - INFO - Environment variables loaded.
+2024-10-25 23:47:12,870 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:47:12,870 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:47:12,870 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:47:12,870 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:47:12,870 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:47:12,870 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:47:12,870 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:47:12,870 - root - INFO - Application exit.
+2024-10-25 23:47:12,870 - root - INFO - Application shutdown.
+2024-10-25 23:47:12,893 - root - INFO - Logging configured.
+2024-10-25 23:47:12,893 - root - INFO - Environment variables loaded.
+2024-10-25 23:47:12,893 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:47:12,893 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:47:12,893 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:47:12,894 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:47:12,894 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:47:12,894 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:47:12,894 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:47:12,894 - root - INFO - Application exit.
+2024-10-25 23:47:12,894 - root - INFO - Application shutdown.
+2024-10-25 23:54:19,644 - root - INFO - Logging configured.
+2024-10-25 23:54:19,645 - root - INFO - Environment variables loaded.
+2024-10-25 23:54:19,647 - root - INFO - Logging configured.
+2024-10-25 23:54:19,647 - root - INFO - Environment variables loaded.
+2024-10-25 23:54:19,647 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:54:19,647 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:54:19,648 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:54:19,649 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:54:19,650 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:54:19,650 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:54:19,650 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:54:19,650 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:54:19,650 - root - INFO - Application exit.
+2024-10-25 23:54:19,650 - root - INFO - Application shutdown.
+2024-10-25 23:54:19,653 - root - INFO - Logging configured.
+2024-10-25 23:54:19,653 - root - INFO - Environment variables loaded.
+2024-10-25 23:54:19,654 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:54:19,654 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:54:19,655 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:54:19,655 - root - INFO - Application exit.
+2024-10-25 23:54:19,655 - root - INFO - Application shutdown.
+2024-10-25 23:54:19,674 - root - INFO - Logging configured.
+2024-10-25 23:54:19,675 - root - INFO - Environment variables loaded.
+2024-10-25 23:54:19,675 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:54:19,676 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:54:19,676 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:54:19,677 - root - INFO - Application exit.
+2024-10-25 23:54:19,677 - root - INFO - Application shutdown.
+2024-10-25 23:55:33,271 - root - INFO - Logging configured.
+2024-10-25 23:55:33,271 - root - INFO - Environment variables loaded.
+2024-10-25 23:55:33,290 - root - INFO - Logging configured.
+2024-10-25 23:55:33,291 - root - INFO - Environment variables loaded.
+2024-10-25 23:55:33,291 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:55:33,291 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:55:33,291 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:55:33,292 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:55:33,292 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:55:33,292 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:55:33,292 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:55:33,292 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:55:33,292 - root - INFO - Application exit.
+2024-10-25 23:55:33,292 - root - INFO - Application shutdown.
+2024-10-25 23:55:33,294 - root - INFO - Logging configured.
+2024-10-25 23:55:33,295 - root - INFO - Environment variables loaded.
+2024-10-25 23:55:33,295 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:55:33,295 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:55:33,296 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:55:33,296 - root - INFO - Application exit.
+2024-10-25 23:55:33,296 - root - INFO - Application shutdown.
+2024-10-25 23:55:33,314 - root - INFO - Logging configured.
+2024-10-25 23:55:33,314 - root - INFO - Environment variables loaded.
+2024-10-25 23:55:33,314 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:55:33,314 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:55:33,314 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:55:33,314 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:55:33,315 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:55:33,315 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:55:33,315 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:55:33,315 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:55:33,315 - root - INFO - Application exit.
+2024-10-25 23:55:33,315 - root - INFO - Application shutdown.
+2024-10-25 23:55:37,897 - root - INFO - Logging configured.
+2024-10-25 23:55:37,897 - root - INFO - Environment variables loaded.
+2024-10-25 23:55:37,903 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:55:37,903 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:55:37,903 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:55:37,903 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:55:37,904 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:55:37,904 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:55:37,904 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:55:37,904 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:55:47,983 - root - INFO - Hello, World!
+2024-10-25 23:55:53,295 - root - INFO - Addition
+2024-10-25 23:55:58,457 - root - INFO - Application exit.
+2024-10-25 23:55:58,457 - root - INFO - Application shutdown.
+2024-10-25 23:57:36,082 - root - INFO - Logging configured.
+2024-10-25 23:57:36,082 - root - INFO - Environment variables loaded.
+2024-10-25 23:57:36,096 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:57:36,097 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:57:36,097 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:57:36,098 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:57:36,098 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:57:36,099 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:57:36,099 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:57:36,099 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:57:40,992 - root - INFO - Application exit.
+2024-10-25 23:57:40,992 - root - INFO - Application shutdown.
+2024-10-25 23:57:48,395 - root - INFO - Logging configured.
+2024-10-25 23:57:48,396 - root - INFO - Environment variables loaded.
+2024-10-25 23:57:48,415 - root - INFO - Logging configured.
+2024-10-25 23:57:48,415 - root - INFO - Environment variables loaded.
+2024-10-25 23:57:48,415 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:57:48,415 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:57:48,416 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:57:48,416 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:57:48,416 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:57:48,416 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:57:48,417 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:57:48,417 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:57:48,417 - root - INFO - Application exit.
+2024-10-25 23:57:48,417 - root - INFO - Application shutdown.
+2024-10-25 23:57:48,420 - root - INFO - Logging configured.
+2024-10-25 23:57:48,421 - root - INFO - Environment variables loaded.
+2024-10-25 23:57:48,421 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:57:48,421 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:57:48,421 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:57:48,421 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:57:48,422 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:57:48,422 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:57:48,422 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:57:48,422 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:57:48,422 - root - INFO - Application exit.
+2024-10-25 23:57:48,422 - root - INFO - Application shutdown.
+2024-10-25 23:57:48,443 - root - INFO - Logging configured.
+2024-10-25 23:57:48,443 - root - INFO - Environment variables loaded.
+2024-10-25 23:57:48,443 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-10-25 23:57:48,443 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-10-25 23:57:48,443 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-10-25 23:57:48,444 - root - INFO - Command 'greet' from plugin 'greet' registered.
+2024-10-25 23:57:48,444 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-10-25 23:57:48,444 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-10-25 23:57:48,444 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-10-25 23:57:48,444 - root - INFO - Application started. Type 'exit' to exit.
+2024-10-25 23:57:48,444 - root - INFO - Application exit.
+2024-10-25 23:57:48,444 - root - INFO - Application shutdown.
