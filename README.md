@@ -1,0 +1,1 @@
+video of midterm - https://youtu.be/vogF52KWNto
