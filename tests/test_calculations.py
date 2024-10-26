@@ -1,6 +1,6 @@
+from decimal import Decimal
 import pytest
 
-from decimal import Decimal
 from calculator.calculation import Calculation
 from calculator.calculations import Calculations
 from calculator.operations import add, subtract, multiply, divide
@@ -38,18 +38,19 @@ def test_get_latest(setup_calculations):
 
 def test_find_by_operation(setup_calculations):
     ''' Test finding calculations by operation type '''
+    # Assert that exactly one calculation with the 'add' operation was found.
     add_operations = Calculations.find_by_operation("add")
     assert len(add_operations) == 1, "Did not find the correct number of calculations with add operation"
-
+    # Assert that exactly one calculation with the 'subtract' operation was found.
     subtract_operations = Calculations.find_by_operation("subtract")
     assert len(subtract_operations) == 1, "Did not find the correct number of calculations with subtract operation"
-
+    # Assert that exactly one calculation with the 'multiply' operation was found.
     multiply_operations = Calculations.find_by_operation("multiply")
     assert len(multiply_operations) == 1, "Did not find the correct number of calculations with multiply operation"
-
+    # Assert that exactly one calculation with the 'divide' operation was found.
     divide_operations = Calculations.find_by_operation("divide")
     assert len(divide_operations) == 1, "Did not find the correct number of calculations with divide operation"
-
+    
 def test_get_latest_with_empty_history():
     ''' Test getting the latest calculation when history is empty '''
     Calculations.clear_history()

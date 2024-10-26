@@ -1,6 +1,6 @@
+from decimal import Decimal
 import pytest
 
-from decimal import Decimal
 from calculator.calculation import Calculation
 from calculator.operations import add, subtract, multiply, divide
 
